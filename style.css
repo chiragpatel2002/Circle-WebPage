@@ -1,0 +1,123 @@
+/*  import google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+
+.navbar .collapse button{
+    background-color: #05427B;
+}
+.First-sect .container .row .col-md-7 h1{
+    font-family: sans-serif;
+    font-weight: 200px;
+    font-size: 55px;
+}
+.First-sect .row{
+    margin-top: 100px;
+}
+.First-sect .container .row.col-5 img{
+    float: right;
+}
+.First-sect .container .responsive{
+    max-width: 100%;
+    height: auto;
+}
+.First-sect button{
+    margin-bottom: 5px;
+    background-color: #05427B;
+}
+.First-sect button:hover{
+    background-color: white;
+    color: #4285F4;
+}
+.Second-sect .container h1{
+    margin-top: 70px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-decoration-color: #00749A;
+    padding: 10px;
+}
+.Second-sect .first-row .card{
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+.Second-sect .first-row .card p{
+    padding-top: 40px;
+}
+.Second-sect .first-row .card h4 i{
+    font-size: xx-large;
+}
+.Second-sect .second-row .card{
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    
+}
+.Second-sect .second-row .card p{
+    padding-top: 20px;
+}
+.Second-sect .second-row .card h4 i{
+    padding-left: 20px;
+}
+.Second-sect .second-row .card i{
+    font-size: 50px;
+    padding: 5px;
+}
+.third-sect h1{
+    margin-top: 70px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-decoration-color: #00749A;
+    padding: 10px;
+}
+.third-sect h5{
+    color: #0B7C4F;
+}
+.third-sect span{
+    float: right;
+    color: black;
+}
+.fourth-sect {
+    background-color:#00749A;
+    min-height: 300px;
+    margin-top: 100px;
+}
+.fourth-sect{
+    color: white;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.fourth-sect button{
+    margin-top: 50px;
+    color: #00749A;
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.fifth-sect {
+    background-color: #000000;
+    min-height: 300px;
+    margin-top: 00px;
+}
+.ftr{
+    background-color: black;
+    color: #FFFFFF;
+}
+.form-control{
+    border-radius: 13px;
+}
+.ftr{
+    overflow-x: hidden;
+}
+.fifth-sect button{
+    margin-top: 50px;
+    color: #000000;
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+}
